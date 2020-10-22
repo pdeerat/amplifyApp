@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react'
 import './AppHeader.css'
-import logo from './logo_ff00ff.png'
+import logo from './logo.png'
 //import App from './App'
 
 export default function AppHeader(props: { rightContent?: ReactNode }) {
