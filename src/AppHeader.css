@@ -1,0 +1,21 @@
+.AppHeader {
+  max-width: 440px;
+  margin: 0 auto;
+  display: flex;
+  height: 40px;
+  align-items: center;
+}
+.AppHeader > img {
+  height: 35px;
+  width: 35px;
+}
+.AppHeader > h1 {
+  margin: 0 auto;	
+  align-items: center;
+  font-size: 2em;
+}
+.AppHeaderのrightContent {
+  margin-left: auto;
+  display: flex;
+  align-self: stretch;
+}

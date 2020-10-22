@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="384px" viewBox="0 0 384 384" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#353433" x="0" y="0" width="384" height="384"></rect>
+        <g id="Group-Copy" transform="translate(82.500474, 87.066746)" opacity="0.933640253">
+            <path d="M89.0802363,0 L89.0802363,48.3247774 L48.3247774,48.3247774 L48.3247774,90.2840233 L6.82121026e-13,90.2840233 L6.82121026e-13,0 L89.0802363,0 Z M120.378698,0 L211.866508,0 L211.866508,90.2840233 L163.541731,90.2840233 L163.541731,48.3247774 L120.378698,48.3247774 L120.378698,0 Z M89.0802363,211.866508 L3.41060513e-13,211.866508 L3.41060513e-13,121.582485 L48.3247774,121.582485 L48.3247774,163.541731 L89.0802363,163.541731 L89.0802363,211.866508 Z" id="Shape" fill="#BBEEFF"></path>
+            <polygon id="Path" fill="#D7FC70" points="163.715029 121.582485 253.999052 211.866508 120.378698 211.866508 120.378698 163.541731 163.715029 163.541731 163.541731 121.582485"></polygon>
+        </g>
+    </g>
+</svg>
