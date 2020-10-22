@@ -6,7 +6,7 @@ import logo from './logo.png'
 export default function AppHeader(props: { rightContent?: ReactNode }) {
   return (
     <div className="AppHeader">
-      //<img alt="" src={logo} />
+      <img alt="" src={logo} />
       <h1>atPOS-PromptPay</h1>
       <div className="AppHeaderのrightContent">{props.rightContent}</div>
     </div>
