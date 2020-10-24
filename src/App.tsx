@@ -193,6 +193,19 @@ class AppMain extends Component {
           />{' '}
           {t('บาท', 'THB')}
         </form>
+        <div className="tip">
+          <strong>Tip: </strong>Add to home screen for easier access
+          <br />
+          เยี่ยมชม atPOS{' '}
+          <a
+            href="https://atpos.net"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            promptpay-qr
+          </a>
+          @{ver}
+        </div>        
       </div>
     )
   }
