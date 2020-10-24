@@ -196,7 +196,7 @@ class AppMain extends Component {
         <div className="tip">
           <strong>Tip: </strong>Add to home screen for easier access
           <br />
-          เยี่ยมชม atPOS{' '}
+          เยี่ยมชม {' '}
           <a
             href="https://www.atpos.net"
             target="_blank"
