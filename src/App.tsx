@@ -202,7 +202,7 @@ class AppMain extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            atPOS
+            <h1>atPOS</h1>
           </a>
         </div>        
       </div>
