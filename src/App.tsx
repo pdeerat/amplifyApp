@@ -198,13 +198,12 @@ class AppMain extends Component {
           <br />
           เยี่ยมชม atPOS{' '}
           <a
-            href="https://atpos.net"
+            href="https://www.atpos.net"
             target="_blank"
             rel="noopener noreferrer"
           >
-            promptpay-qr
+            atPOS
           </a>
-          @{ver}
         </div>        
       </div>
     )
