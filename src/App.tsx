@@ -194,8 +194,6 @@ class AppMain extends Component {
           {t('บาท', 'THB')}
         </form>
         <div className="tip">
-          <strong>Tip: </strong>Add to home screen for easier access
-          <br />
           เยี่ยมชม {' '}
           <a
             href="https://www.atpos.net"
