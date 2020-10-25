@@ -194,13 +194,12 @@ class AppMain extends Component {
           {t('บาท', 'THB')}
         </form>
         <div className="tip">
-          เยี่ยมชม
           <a
             href="https://www.atpos.net"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <h1>atPOS</h1>
+            <h1>คลิก>>atPOS</h1>
           </a>
         </div>        
       </div>
