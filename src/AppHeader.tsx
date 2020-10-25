@@ -6,14 +6,8 @@ import logo from './logo.png'
 export default function AppHeader(props: { rightContent?: ReactNode }) {
   return (
     <div className="AppHeader">
-      <img alt="" src={logo} />{' '}
-      <a
-        href="https://www.atpos.net"
-        target="_blank"
-        rel="noopener noreferrer"
-        >
+      <img alt=" " src={logo} " "/>
       <h1>atPOS-PromptPay</h1>
-      </a>
       <div className="AppHeaderのrightContent">{props.rightContent}</div>
     </div>
   )
