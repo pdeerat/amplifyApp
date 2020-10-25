@@ -13,8 +13,8 @@ export default function AppHeader(props: { rightContent?: ReactNode }) {
         rel="noopener noreferrer"
         >
       <h1>atPOS-PromptPay</h1>
-      </a>
       <div className="AppHeaderのrightContent">{props.rightContent}</div>
+      </a>
     </div>
   )
 }
